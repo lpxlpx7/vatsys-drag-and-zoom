@@ -2,6 +2,8 @@
 
 An open-source plugin for vatSys that improves ASD map navigation.
 
+Repository: <https://github.com/Jurinas-vatsys-plugins/drag-and-zoom>
+
 ## Features
 
 - Keeps the ASD at the position reached after middle-button panning.
@@ -12,7 +14,7 @@ An open-source plugin for vatSys that improves ASD map navigation.
 
 ## Installation
 
-Download the latest `vatSys.PersistentPan.dll` from the [Releases](https://github.com/lpxlpx7/Drag-and-zoom/releases) page.
+Download the latest `vatSys.PersistentPan.dll` from the [Releases](https://github.com/Jurinas-vatsys-plugins/drag-and-zoom/releases) page.
 
 Copy the DLL into the `Plugins` directory of the active vatSys Profile:
 
